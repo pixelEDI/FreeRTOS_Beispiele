@@ -28,10 +28,10 @@ Ein guter und günstiger Temperatur und Luftfeuchtigkeitssensor welche via I2C f
 - DHT20 Temperatursensor: <https://amzn.to/4a7CIj3> \*
 
 ## Allgemeines
-- Bunte Push Buttons: <https://amzn.to/48MdPZm> /* \*
-- 10 Stk. Mini Breadboard: <https://amzn.to/3IyI4YZ> /* \*
-- Litzen sortiert: <https://amzn.to/43ilJbU> /*
-- LED Sortiment: <https://amzn.to/3vTyDRa> /*
+- Bunte Push Buttons: <https://amzn.to/48MdPZm> \*
+- Mini Breadboard: <https://amzn.to/4jmh3Jw> \* 
+- Litzen sortiert: <https://amzn.to/43ilJbU> \*
+- LED Sortiment: <https://amzn.to/3vTyDRa> \*
 
 > Alle Links mit "\*" sind Amazon/Aliexpress Affiliate Links. 
 Als Amazon-Partner verdiene ich an qualifizierten Verkäufen, für dich bleibt der Preis gleich.
