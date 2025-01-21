@@ -13,10 +13,10 @@ Am besten direkt von Seeedstudio bezeihen, hier kosten die ESPs ~ 5$.
 Achte beim bestellen ob DE-Warehouse verfügbar ist, ansonsten kommen Zollgebühren dazu.
 Die ESPs sind immer wieder vergriffen, einfach später nochmal probieren
 
-ESP32-C3: https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-ESP32-S3: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
-ESP32-C6: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html
-ESP32-Sense: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+- ESP32-C3: https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+- ESP32-S3: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+- ESP32-C6: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html
+- ESP32-Sense: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
 
 ## Module
 - CCS811 Kohlendioxid-Gassensor Metalloxid Sensor :<https://amzn.to/3PKZOEi> \*
